@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.legaceetv" name="Legacee TV" version="1.0" provider-name="Legacee TV">
+    <extension point="xbmc.addon.repository" name="Legacee TV">
+	    <info compressed="false">https://github.com/legaceetv/repo/blob/master/Plugins/addons.xml</info>
+		<checksum>https://github.com/legaceetv/repo/blob/master/Plugins/addons.xml.md5</checksum>
+		<datadir zip="true">https://github.com/legaceetv/repo/tree/master/Plugins</datadir>
+	</extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Legacee TV Repository</summary>
+        <platform>all</platform>
+    </extension>
+</addon>	
